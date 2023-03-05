@@ -1,3 +1,5 @@
-hiddenrec/__pycache__/__init__.cpython-311.pyc
-hiddenrec/__pycache__/__main__.cpython-311.pyc
-hiddenrec/__pycache__/hiddenrec.cpython-311.pyc
+hiddenrec/__pycache__
+build
+hiddenrec.egg-info
+*.wav
+*.wav.tmp
